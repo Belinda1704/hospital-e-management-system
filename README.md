@@ -108,6 +108,15 @@ The frontend will run on `http://localhost:5173` (or another port if 5173 is tak
 
 3. Open your browser and navigate to the frontend URL
 
+### Default Admin Credentials
+
+After seeding the admin user, you can log in with these credentials:
+
+- **Email**: admin@hospital.com
+- **Password**: Admin123!
+
+**Important**: Make sure to change this password after your first login for security purposes.
+
 ## Project Structure
 
 ```
